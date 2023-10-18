@@ -1,0 +1,1 @@
+user_id,age,churn_date,city,first_name,last_name,reg_date,tariff_name,messages_included,mb_per_month_included,minutes_included,rub_monthly_fee,rub_per_gb,rub_per_message,rub_per_minute,calls_id,call_date,duration,calls_month,calls_per_month_count,duration_per_month_sum,id,message_date,messages_month
